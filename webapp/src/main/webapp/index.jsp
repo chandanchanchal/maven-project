@@ -1,1 +1,1 @@
-WELCOME to jenkins for CI and CD DEMO with docker
+WELCOME to jenkins for CI
