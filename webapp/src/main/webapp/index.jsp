@@ -1,2 +1,1 @@
-WELCOME to jenkins session for CI & CD
-test
+WELCOME to jenkins session for CI & CD with docker container
