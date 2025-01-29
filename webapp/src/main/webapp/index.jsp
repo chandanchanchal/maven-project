@@ -1,1 +1,1 @@
-WELCOME to jenkins session for CI
+WELCOME to jenkins session for CI & CD
